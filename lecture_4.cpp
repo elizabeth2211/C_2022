@@ -1,4 +1,4 @@
-//Imankalimova Elizaveta IFb-18-1 lecture_5
+//Imankalimova Elizaveta IFb-18-1 lecture_4
 #include <stdio.h>
 #include <iostream>
 #include <fstream>
